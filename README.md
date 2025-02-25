@@ -14,15 +14,18 @@ Key topics covered:
 ---
 
 ## 📂 Files Included  
-📌 **Presentation Slides:** [`DS-TransUNet_Presentation.pdf`](./DS-TransUNet_Presentation.pdf)  
-📌 **Research Paper:** [`DS-TransUNet_Article.pdf`](./DS-TransUNet_Article.pdf)  
+📌 **Presentation Slides:** [📑 DS-TransUNet_Presentation.pptx](https://github.com/danial456j/DS-TransUNet-Seminar/blob/main/DS-TransUNet.pptx)  
+📌 **Seminar Notes:** [📜 TransUNet Lesson 5 (PDF)](https://github.com/danial456j/DS-TransUNet-Seminar/blob/main/TransUnet-%20lesson%205.pdf)  
 
 ---
 
 ## 📚 References & Additional Resources  
-📄 **Original Paper:** [DS-TransUNet Research Paper](https://arxiv.org/abs/xxxx.xxxxx)  
-📖 **U-Net Architecture:** [Understanding U-Net](https://towardsdatascience.com/u-net-for-image-segmentation-2c8d9bb2eb10)  
-📖 **Transformers in Vision:** [Swin Transformer Paper](https://arxiv.org/abs/2103.14030)  
+This seminar is based on the **original research paper**:  
+📄 **DS-TransUNet Research Paper:** [DS-TransUNet (2021)](https://arxiv.org/abs/2106.06716)  
+
+Other useful references:  
+📖 **U-Net Architecture:** [Original U-Net Paper (2015)](https://arxiv.org/abs/1505.04597)  
+📖 **Transformers in Vision:** [Swin Transformer Paper (2021)](https://arxiv.org/abs/2103.14030)  
 
 ---
 
